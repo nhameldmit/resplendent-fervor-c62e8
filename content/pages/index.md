@@ -60,7 +60,7 @@ sections:
       style: secondary
       arrow: true
 seo:
-  title: Planty Theme
+  title: Planty Theme 2
   description: The preview of the Planty theme
   extra:
     - name: 'og:type'
